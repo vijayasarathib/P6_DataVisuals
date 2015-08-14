@@ -33,11 +33,9 @@ after looking at the graph, it looks like we have enough details to understand t
   -- Added transparency, as some areas of the graph (2010-2012) have considerable overlap.
   
   I took notes on the issues and reasons for unclear in first picture and tried to correct them in the focused graph. also noted the good points to carry on here too. i decided that having differnt color for each airline is important, as the visuals giving you better picture and observation. adjusted the axis and its scale to have clear picture. added the legend as well in the top right. 
-
-![using d3](https://github.com/vijayasarathib/P6_DataVisuals/blob/master/img/initial.png)
-
-
-### Feedback
+  
+  
+#### Feedback
  I had a chance to interview few people in person and asked their feedback on the visuals i crated. below are the few comments : 
  
 #### Person #1
@@ -75,7 +73,7 @@ After reviewing the feedback from the 3 people, updated the visual with the belo
 - polished the tooltip variable names to be more natural.
 - I added a `mouseover` event for the lines, so it would 'pop' it out and emphasize the path.  This would allow for better understanding of each individual airline's trend from 2003 to 2015.
 
-![final](https://github.com/vijayasarathib/P6_DataVisuals/blob/master/img/final.png)
+
 
 
 ### Resources
