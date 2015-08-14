@@ -1,4 +1,4 @@
-# Udacity Data Visualization: U.S. Domestic Airline Performance, 2003-2015
+#Data Visualization: U.S. Domestic Airline Performances - 2003-2015
 by Vijayasarathi Balasubramanian
 
 ### Summary
