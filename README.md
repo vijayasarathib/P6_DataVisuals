@@ -10,10 +10,15 @@ i took the data from RITA site to explre and understand the different U.S. domes
 
    I downloaded the data from RITA(http://www.transtats.bts.gov) for the performance analysis. the data set which i downloaded had the data from 2003 to 2015. as its a raw data i had to clean a bit before use it for the analysis. i used the R studio to do the exploratory analysis, have included the rmd file in the source code. as part of the exploratory analysis plaotted different graphs and once among them was different airlines performance for the years. performance of airlines is defined as number of arrivals delayed of the arrivals. just explored the data using the simple line graphs. 
 
+![First look](https://github.com/vijayasarathib/P6_DataVisuals/blob/master/img/1.png)
+
     
 Though the picture looks attractive its difficult to form insight from this graph, i felt like reducing the number of airlines for the analysis might help us to bring some insight. so i went ahead and restricted the number of airlines in the data set to 6. then i just recreated the line chart discussed in the first step.
 
 i just created another graph with total annual flights too. 
+
+![closer view](https://github.com/vijayasarathib/P6_DataVisuals/blob/master/img/2.png)
+
 
 after looking at the graph, it looks like we have enough details to understand these airlines. It shows how various airlines improved or worsened over time, and which airlines were currently performing the best, as of 2015.  It also showed the general trends that all 6 airlines experienced: an aggregate dip in performance from 2006 to 2008, individual peaks from 2010 to 2012, and a more recent drop from 2012 to 2014. the data we have so far for 2015 shows positive sign.
 
